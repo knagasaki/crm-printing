@@ -1,4 +1,4 @@
-# CRMtyp: a CIDOC CRM extension for printed books
+# A CIDOC CRM extension for printed books
 
 ## About this project
 
